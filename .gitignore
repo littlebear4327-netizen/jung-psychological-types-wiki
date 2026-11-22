@@ -1,0 +1,18 @@
+# LLM Wiki .gitignore
+
+# Python / OS 暫存
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 編輯器暫存
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Windows 暫存
+~$*
